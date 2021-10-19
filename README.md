@@ -49,6 +49,3 @@
 <img align="right" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />
 <br/>
 <br/>
-<img align="right" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />
-<br />
-<br />
