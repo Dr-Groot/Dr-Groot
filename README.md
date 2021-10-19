@@ -13,9 +13,9 @@
 <br/>
 <br />
 
+<br />
+<br />
 <img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">
-
-
 <hr/>
 
 
