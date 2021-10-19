@@ -51,3 +51,7 @@
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
 
 <br/>
+
+[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+
+<hr/>
