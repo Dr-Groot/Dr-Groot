@@ -11,7 +11,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
 - ⚡ Fun fact: I love to eat Cheesse Burger and dig Data.
 <br/>
+<br />
+
+[<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
+
+
 <hr/>
+
 
 ### ⚙ Languages and Tools:
 
@@ -52,6 +58,3 @@
 
 <br/>
 
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
-
-<hr/>
