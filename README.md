@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to eat Cheesse Burger and dig Data.
 <br/>
 <br />
-<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">
+<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="180">
 <hr/>
 ### ⚙ Languages and Tools:
 
