@@ -40,15 +40,15 @@
 <img align="right" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />
 <img align="right" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />
 <img align="right" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />
+<img align="right" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />
 <br/>
 <br/>
 <img align="right" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />
 <img align="right" alt="Typescript" width="33px" src="https://i.imgur.com/6md14Ny.png" />
 <img align="right" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />
+<img align="right" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />
 <br/>
 <br/>
 <img align="right" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />
-<img align="right" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />
-<img align="right" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />
 <br />
 <br />
