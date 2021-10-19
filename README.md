@@ -12,10 +12,13 @@
 - ⚡ Fun fact: I love to eat Cheesse Burger and dig Data.
 <br/>
 <br />
+
+<hr/>
+
 <img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="300">
 <hr/>
-### ⚙ Languages and Tools:
 
+### ⚙ Languages and Tools:
 <img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
