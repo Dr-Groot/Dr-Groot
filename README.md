@@ -48,8 +48,9 @@
 <img align="right" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />
 <img align="right" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />
 <br />
+<br />
 <img align="right" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />
 <img align="right" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />
 <img align="right" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />
 <br/>
-
+<br/>
