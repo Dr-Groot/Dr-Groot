@@ -1,7 +1,7 @@
 ![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/63160825/137918832-c521f6dd-34c9-4efa-9e80-ec142ff8221d.png)
 
 ### Hi, I am Aman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="320">
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="300">
 <hr/>
 
 ### I am a Self-learnt Data Scientist and Python Expert . Currently I am pursuing Msc.Data Science.
