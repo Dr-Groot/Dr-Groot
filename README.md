@@ -15,7 +15,7 @@
 
 <hr/>
 
-<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="300">
+<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="400">
 <hr/>
 
 ### ⚙ Languages and Tools:
