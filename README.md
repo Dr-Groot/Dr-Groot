@@ -49,12 +49,9 @@
 <img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />
 <img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />
 <img align="left" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />
-
 <br />
-
 <img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />
 <img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />
 <img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />
-
 <br/>
 
