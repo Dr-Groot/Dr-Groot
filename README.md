@@ -5,12 +5,12 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">
 <hr/>
 
-### I am a Self-learnt Data Scientist and Python Expert . Currently I am pursuing Msc.Data Science.
+### I am a Self-learnt iOS Developer and Python Expert . Currently I am working as a iOS Software Developer at CROPSLY.
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Machine Learning and Stats.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
-- ⚡ Fun fact: I love to eat Cheesse Burger and dig Data.
+- ⚡ Fun fact: I love to eat Cheesse Burger and Dev.
 <br/>
 <br />
 
