@@ -2,6 +2,7 @@
 
 
 ### Hi, I am Aman (Dr.Groot) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Thanks for dropping by. I am a Software Engineer and currently working at Cropsly. I love problem solving and I am an active user of coding platforms. I enjoy meeting new people and hearing new perspectives. I have an inquisitive mind. I like questioning things, knowing their whys and hows. I firmly believe that learning should never stop. Therefore, I keep up-skilling myself.
 ### My Work:
 #### -> LightHouse iOS Application [Link](https://www.armcolighthouse.com/lighthouseapp)
 #### -> DriveOne iOS Application [Link](https://driveone.eu/)
@@ -13,10 +14,10 @@
 
 ### I am a Self-learnt iOS Developer and Python Expert . Currently I am working as a iOS Software Developer at CROPSLY.
 - 🔭 I just tried to make a readme file for my github account.<br />
-- 🌱 I’m iOS Developer + Data Enthusiast.<br />
+- 🌱 I’m iOS and Flutter Developer .<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 2023 Goals: Contribute more to Open Source projects.<br />
-- ⚡ Fun fact: I love to eat Cheesse Burger and Dev.
+- ⚡ Fun fact: I love to eat Cheesse Burger and Mobile Application devlopment.
 <br/>
 <br />
 
