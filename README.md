@@ -6,6 +6,7 @@
 #### -> LightHouse iOS Application [Link](https://www.armcolighthouse.com/lighthouseapp)
 #### -> DriveOne iOS Application [Link](https://driveone.eu/)
 #### -> LiveWright Flutter Application [Link](https://live-wright.com/)
+#### -> Other Projects [GitHub](https://github.com/Dr-Groot?tab=repositories)
 
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">
 <hr/>
