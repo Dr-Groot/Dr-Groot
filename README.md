@@ -12,7 +12,7 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">
 <hr/>
 
-### I am a Self-learnt iOS Developer and Python Expert . Currently I am working as a iOS Software Developer at CROPSLY.
+### I am a Self-learnt iOS Developer and Python Expert. Currently I am working at [NeoSoft](https://www.neosofttech.com/). I love problem solving and I am an active user of coding platforms.
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m iOS and Flutter Developer .<br />
 - 👯 I’m wanting to create more awesome projects.<br />
