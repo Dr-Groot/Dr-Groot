@@ -2,7 +2,7 @@
 
 
 ### Hi, I am Aman (Dr.Groot) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-### Thanks for dropping by. I am a Software Engineer and currently working at [NeoSoft](https://www.neosofttech.com/). I love problem solving and I am an active user of coding platforms. I enjoy meeting new people and hearing new perspectives. I have an inquisitive mind. I like questioning things, knowing their whys and hows. I firmly believe that learning should never stop. Therefore, I keep up-skilling myself.
+### Thanks for dropping by. I am a Software Engineer currently working at NeoSoft. I love problem-solving and enjoy crafting new things with Swift. I also relish meeting new people and hearing different perspectives. With an inquisitive mind, I enjoy questioning things to understand their whys and hows. I firmly believe that learning should never stop, so I continuously up-skill myself.
 ### My Work:
 #### -> CYBX iOS Application [Link](https://cybx.in/)
 #### -> LightHouse iOS Application [Link](https://www.armcolighthouse.com/lighthouseapp)
