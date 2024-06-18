@@ -14,7 +14,7 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">
 
 ### I am a Self-learnt iOS Developer and Python enthusiast.
-- 🔭 Ping me to collaborate on crafting beautiful iOS applications.<br />
+- 🔭 Ping me to collaborate on crafting beautiful iOS application.<br />
 - 🌱 I’m an iOS developer and a beginner-level swift backend developer.<br />
 - 👯 I’m looking to create more awesome projects.<br />
 - 🥅  2024 Goals: Contribute more to open-source projects.<br />
